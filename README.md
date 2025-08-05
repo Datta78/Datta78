@@ -55,7 +55,7 @@
 ### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Datta78&theme=radical&area=true&hide_border=true" alt="github activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Datta78&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 ---
