@@ -44,6 +44,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Datta78&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta78&layout=compact&theme=radical" />
 </p>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Datta78&theme=radical&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Datta78&theme=dracula&area=true&hide_border=true" />
+</p>
+
 
 ---
 
