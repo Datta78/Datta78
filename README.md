@@ -54,9 +54,8 @@
 
 ### 📊 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Datta78&theme=dracula&area=true&hide_border=true" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Datta78&theme=radical)
+
 
 
 ---
