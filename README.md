@@ -14,8 +14,6 @@
 
 ---
 
-<!-- ══════════════════ IDENTITY ══════════════════ -->
-
 <table width="100%">
 <tr>
 <td width="54%" valign="top">
@@ -39,19 +37,17 @@ My work spans backend architecture, database design, Android automation, and cli
 </td>
 <td width="46%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Datta78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&custom_title=GitHub+Overview" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Datta78&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&custom_title=GitHub+Overview" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Datta78&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Datta78&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 ---
-
-<!-- ══════════════════ TECH STACK ══════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -92,95 +88,55 @@ My work spans backend architecture, database design, Android automation, and cli
 
 ---
 
-<!-- ══════════════════ PROJECTS ══════════════════ -->
-
 ## 🚀 Projects
 
 <br/>
 
 ### 💸 Expense Manager Web App
-> *Personal finance management platform with intelligent budgeting and visual analytics*
+> Full-stack personal finance tracker with category-wise budgeting, Chart.js visual reports, and an alert system that fires when spending limits are crossed.
+> Session-based PHP auth with input validation and SQL injection prevention built in.
 
-A full-featured finance tracker built to handle real-world budgeting workflows. The system supports multiple expense categories, tracks against monthly budget goals, and fires alerts when thresholds are crossed. Reports are visualised using Chart.js with options to export data for external use. Authentication is handled via PHP sessions with basic security hardening.
-
-| Feature | Details |
-|---|---|
-| 📊 Visual Reports | Chart.js-powered bar, pie, and line charts for spending breakdown |
-| 🔔 Alert System | Triggers notifications when budget limits are exceeded |
-| 📁 Data Export | Downloadable reports in CSV format |
-| 🔐 Auth | Session-based login with input validation and SQL injection prevention |
-| 🧩 Tech | `PHP` `MySQL` `Chart.js` `Bootstrap` `JavaScript` |
-
-<br/>
+`PHP` &nbsp;`MySQL` &nbsp;`Chart.js` &nbsp;`Bootstrap` &nbsp;`JavaScript`
 
 ---
 
 ### 🤖 WhatsApp Auto-Reply Bot
-> *Android-based automation engine for WhatsApp message handling*
+> Android automation engine built with Java and the Accessibility API — no third-party API costs or WhatsApp Business approval required.
+> Runs silently in the background, triggering keyword-based replies within configurable time windows.
 
-Built natively for Android using Java and the Accessibility API — no third-party WhatsApp Business API required. The bot monitors incoming messages in the background and triggers automated replies based on keyword rules and scheduling configurations. Designed for businesses needing lightweight automation without API costs or WhatsApp Business approval overhead.
-
-| Feature | Details |
-|---|---|
-| ⚡ Keyword Engine | Rule-based keyword matching for contextual auto-replies |
-| 🕐 Scheduling | Time-window configuration — only replies during set hours |
-| 📋 Template System | Customisable message templates per contact or group type |
-| 🔕 Background Mode | Silent execution using Android Accessibility Service |
-| 🧩 Tech | `Java` `Android SDK` `Accessibility API` `SharedPreferences` |
-
-<br/>
+`Java` &nbsp;`Android SDK` &nbsp;`Accessibility API` &nbsp;`SharedPreferences`
 
 ---
 
 ### 🛒 Online Food Ordering System
-> *Full-stack web platform with dual-role panel architecture*
+> Dual-panel food ordering platform — customers browse, cart, and checkout while admins manage the menu, track orders, and view revenue.
+> Live order pipeline (Placed → Preparing → Ready → Delivered) visible across both panels in real time.
 
-A complete food ordering solution built for restaurants and canteens. The system is split into a customer-facing ordering interface and a back-end admin panel for menu and order management. Orders flow through real-time status updates visible to both customer and admin. Designed with scalability in mind — the schema supports multiple branches with independent menu configuration.
-
-| Feature | Details |
-|---|---|
-| 👤 Customer Panel | Browse menu, add to cart, place orders, track status |
-| 🔧 Admin Panel | Manage menu items, view & update order status, revenue summary |
-| 🔄 Order Pipeline | Live order status: Placed → Preparing → Ready → Delivered |
-| 📱 Responsive | Mobile-first layout using Bootstrap grid |
-| 🧩 Tech | `PHP` `MySQL` `JavaScript` `Bootstrap` `HTML/CSS` |
-
-<br/>
+`PHP` &nbsp;`MySQL` &nbsp;`JavaScript` &nbsp;`Bootstrap` &nbsp;`HTML/CSS`
 
 ---
 
 ### 📋 Student Attendance System
-> *Institution-grade web-based attendance management with role-based access*
+> Role-based attendance platform for institutions with separate dashboards for Admin, Teacher, and Student.
+> Auto-calculates attendance percentages per subject, flags students below threshold, and exports records for compliance.
 
-A structured attendance platform for educational institutions. Designed for multi-role environments — admins manage the system, teachers mark attendance per subject, and students view their own records. Attendance percentages are auto-calculated and flagged when a student drops below a minimum threshold. Records can be exported for reporting and administration.
-
-| Feature | Details |
-|---|---|
-| 🎭 Role System | Separate dashboards for Admin, Teacher, and Student |
-| ✅ Attendance Marking | Subject-wise daily attendance with date-range filtering |
-| 📈 Auto % Calc | Real-time attendance percentage per student per subject |
-| 📤 Export | Exportable records for administration and compliance |
-| 🧩 Tech | `PHP` `MySQL` `Bootstrap` `JavaScript` |
-
-<br/>
+`PHP` &nbsp;`MySQL` &nbsp;`Bootstrap` &nbsp;`JavaScript`
 
 ---
-
-<!-- ══════════════════ CONTRIBUTION GRAPH ══════════════════ -->
 
 ## 📡 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Datta78&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6366f1&point=f472b6&area=true&area_color=6366f1)](https://github.com/Datta78)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Datta78&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6366f1&point=a78bfa&area=true&area_color=6366f130)](https://github.com/Datta78)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta78&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&custom_title=Language+Distribution" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta78&layout=donut&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&custom_title=Language+Distribution" width="36%"/>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Datta78&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](https://github.com/Datta78)
 
@@ -188,97 +144,57 @@ A structured attendance platform for educational institutions. Designed for mult
 
 ---
 
-<!-- ══════════════════ CERTIFICATIONS ══════════════════ -->
-
 ## 🏅 Certifications
 
 <div align="center">
 
 | Certification | Domain |
-|:---|:---:|
-| ✅ Responsive Web Design | Frontend Development |
-| ✅ Python Programming & Automation | Python · Scripting |
-| ✅ MySQL Database Design & Management | Databases |
-| ✅ Git & GitHub — Version Control | DevOps Fundamentals |
-| ✅ REST API Design & Development | Backend Architecture |
-| ✅ Android App Development with Java | Mobile Development |
-| ✅ Introduction to Cloud Computing | Cloud & Infrastructure |
-| ✅ Digital Marketing Fundamentals | Marketing & Growth |
+|:---|:---|
+| ✦ Responsive Web Design | Frontend Development |
+| ✦ Python Programming & Automation | Python · Scripting |
+| ✦ MySQL Database Design & Management | Database Architecture |
+| ✦ Git & GitHub — Version Control | DevOps Fundamentals |
+| ✦ REST API Design & Development | Backend Systems |
+| ✦ Android App Development with Java | Mobile Development |
+| ✦ Introduction to Cloud Computing | Cloud & Infrastructure |
+| ✦ Digital Marketing Fundamentals | Growth & Marketing |
 
 </div>
 
 ---
-
-<!-- ══════════════════ DNM WEB+ ══════════════════ -->
 
 ## 🏢 DNM Web+ — Digital Agency
 
 <div align="center">
 
-> **Building digital infrastructure for local businesses across Sangli · Kolhapur · Pune MIDC**
->
-> *We don't just make websites — we build systems that generate leads, automate communication, and run operations.*
+> **Delivering digital infrastructure for growth-focused businesses across Sangli · Kolhapur · Pune MIDC**
 
 </div>
 
 <br/>
 
-**What we deliver:**
+DNM Web+ is a digital agency built to serve small and mid-sized businesses that need systems — not just a web presence. Every engagement is scoped around a clear outcome: more inbound leads, faster client response, lower operational overhead, or all three.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**🌐 Web Development**
-Custom-built websites and landing pages engineered for speed, SEO, and conversion — not just visual design. Every site is production-deployed with SSL, mobile responsiveness, and performance optimisation baked in.
+| Service | What's Delivered |
+|:---|:---|
+| 🌐 **Web Development** | Custom websites and landing pages — fast, SEO-optimised, mobile-first, production-deployed with SSL |
+| 🤖 **WhatsApp Automation** | Lead capture forms, auto-reply bots, broadcast pipelines, and CRM-linked messaging systems |
+| 🛒 **E-commerce** | Full-stack stores with product management, payment integration, order tracking, and admin dashboards |
+| 📈 **SEO & Social Media** | On-page SEO, Google Business setup, and branded social media design kits |
+| 📊 **Retainer Plans** | Monthly maintenance, content updates, uptime monitoring, and priority support |
+| 🔧 **Custom SaaS Tools** | Booking systems, inventory trackers, and workflow automations replacing manual processes |
 
-</td>
-<td width="50%" valign="top">
-
-**🤖 WhatsApp Automation**
-End-to-end WhatsApp systems covering lead capture forms, auto-reply bots, broadcast messaging, and CRM integration. Built for businesses that need to respond faster without adding headcount.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛒 E-commerce & Online Stores**
-Full-stack e-commerce setups with product management, payment gateway integration, order pipelines, and admin dashboards — tailored to the client's inventory and sales workflow.
-
-</td>
-<td width="50%" valign="top">
-
-**📈 SEO & Social Media Systems**
-On-page SEO audits, Google Business optimisation, and social media design kits — giving local businesses the visibility infrastructure to compete digitally.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📊 Retainer Plans**
-Monthly maintenance, content updates, performance monitoring, and support plans — so clients never have to worry about their digital presence going stale or breaking.
-
-</td>
-<td width="50%" valign="top">
-
-**🔧 Custom Automation & SaaS Tools**
-Bespoke internal tools, booking systems, inventory trackers, and workflow automations — built for businesses that have outgrown spreadsheets but aren't ready for enterprise software costs.
-
-</td>
-</tr>
-</table>
+<br/>
 
 <div align="center">
 
-**Industries Served:** `Retail` `Food & Hospitality` `Manufacturing (MIDC)` `Healthcare` `Education` `Professional Services`
+**Industries Served** &nbsp;·&nbsp; `Retail` `Food & Hospitality` `Manufacturing (MIDC)` `Healthcare` `Education` `Professional Services`
 
 </div>
 
 ---
-
-<!-- ══════════════════ CURRENTLY BUILDING ══════════════════ -->
 
 ## 🔭 Currently Building
 
@@ -291,8 +207,6 @@ Bespoke internal tools, booking systems, inventory trackers, and workflow automa
 ```
 
 ---
-
-<!-- ══════════════════ CONNECT ══════════════════ -->
 
 ## 📬 Let's Connect
 
