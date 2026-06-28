@@ -229,7 +229,7 @@ DNM Web+ is a digital agency built to serve small and mid-sized businesses that 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer)
 
-**"Build systems. Solve problems. Ship things that matter."**
+**"Build systems. Solve problems. Ship things that matter. "**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Datta78&label=Profile+Views&color=a78bfa&style=flat-square)
 
