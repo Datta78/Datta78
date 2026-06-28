@@ -18,7 +18,7 @@
 <tr>
 <td width="54%" valign="top">
 
-## ⚡ What I Do
+## ⚡ Who I Am & What I Do
 
 I'm **Dattatray Bhosale**, a full stack developer and founder of **DNM Web+**, a digital agency based in **Sangli, Maharashtra**.
 
