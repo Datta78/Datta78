@@ -108,7 +108,7 @@ My work spans backend architecture, database design, Android automation, and cli
 
 ---
 
-### 🛒 Online Food Ordering System
+### 🛒 Online Food System
 > Dual-panel food ordering platform — customers browse, cart, and checkout while admins manage the menu, track orders, and view revenue.
 > Live order pipeline (Placed → Preparing → Ready → Delivered) visible across both panels in real time.
 
