@@ -30,7 +30,7 @@ My work spans backend architecture, database design, Android automation, and cli
 📍 Base          : Sangli, Maharashtra, India
 🏢 Venture       : DNM Web+ — Digital Agency
 🔧 Core Skills   : Full Stack · Automation · SaaS
-📬 Contact       : bhosaledattatray78@gmail.com
+📬 Contact       : bdattatray78@gmail.com
 🤝 Available For : Freelance · Internships · Builds
 ```
 
