@@ -6,12 +6,15 @@
 
 <br/>
 
-[![About](https://img.shields.io/badge/📍_About-a78bfa?style=for-the-badge&labelColor=0d1117)](#-who-i-am--what-i-do)
+[![About](https://img.shields.io/badge/📍_About-a78bfa?style=for-the-badge&labelColor=0d1117)](#-who-i-am)
 [![Stack](https://img.shields.io/badge/🛠️_Stack-a78bfa?style=for-the-badge&labelColor=0d1117)](#️-tech-stack)
 [![Projects](https://img.shields.io/badge/🚀_Projects-a78bfa?style=for-the-badge&labelColor=0d1117)](#-featured-projects)
 [![Stats](https://img.shields.io/badge/📊_Stats-a78bfa?style=for-the-badge&labelColor=0d1117)](#-github-analytics)
 [![Agency](https://img.shields.io/badge/🏢_DNM_Web%2B-a78bfa?style=for-the-badge&labelColor=0d1117)](#-dnm-web--digital-agency)
 [![Connect](https://img.shields.io/badge/📬_Connect-a78bfa?style=for-the-badge&labelColor=0d1117)](#-lets-connect)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Datta78&label=Profile+Views&color=a78bfa&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Datta78?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)
 
 </div>
 
@@ -19,18 +22,18 @@
 
 ---
 
-<a id="-who-i-am--what-i-do"></a>
-## ⚡ Who I Am & What I Do
+<a id="-who-i-am"></a>
+## ⚡ Who I Am
 
 <table width="100%">
 <tr>
-<td width="54%" valign="top">
+<td width="52%" valign="top">
 
 I'm **Dattatray Bhosale**, a full stack developer and founder of **DNM Web+**, a digital agency based in **Sangli, Maharashtra**.
 
-I design and build production-grade web systems, automation pipelines, and SaaS-style applications — with a sharp focus on solving real business problems, not just shipping features.
+I design and build production-grade web systems, automation pipelines, and SaaS-style applications — with a sharp focus on solving real business problems, not just shipping features. My work spans backend architecture, database design, Android automation, and client-facing digital products.
 
-My work spans backend architecture, database design, Android automation, and client-facing digital products. I combine technical depth with a product mindset — understanding what needs to be built and why before touching a line of code.
+I combine technical depth with a product mindset — understanding what needs to be built and why before touching a line of code.
 
 ```yaml
 📍 Base          : Sangli, Maharashtra, India
@@ -40,21 +43,14 @@ My work spans backend architecture, database design, Android automation, and cli
 🤝 Available For : Freelance · Internships · Builds
 ```
 
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Datta78&label=Profile+Views&color=a78bfa&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Datta78?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)
-
-</div>
-
 </td>
-<td width="46%" valign="top" align="center">
+<td width="48%" valign="top" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Datta78&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&custom_title=GitHub+Overview" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=Datta78&theme=radical&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=Datta78&theme=radical&hide_border=true&background=0d1117" width="100%"/>
 
 </td>
 </tr>
@@ -71,15 +67,19 @@ My work spans backend architecture, database design, Android automation, and cli
 <br/>
 <img src="https://skillicons.dev/icons?i=py,php,js,java,html,css&theme=dark" />
 
+<br/>
+
 **Frameworks & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,git,github,vscode,postman&theme=dark" />
+
+<br/>
 
 **Database & Infrastructure**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,firebase,vercel,netlify,linux&theme=dark" />
 
-<br/>
+<br/><br/>
 
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS%20Architecture-6366F1?style=for-the-badge&logoColor=white)
@@ -105,11 +105,6 @@ My work spans backend architecture, database design, Android automation, and cli
 </summary>
 <br/>
 
-<!-- 🔴 REPLACE the image link below with your actual project screenshot URL -->
-<img src="https://placehold.co/900x400/0d1117/a78bfa?text=Expense+Manager+%E2%80%94+Screenshot+Here" width="100%"/>
-
-<br/><br/>
-
 Full-stack personal finance tracker with category-wise budgeting, Chart.js visual reports, and an alert system that fires when spending limits are crossed. Session-based PHP auth with input validation and SQL injection prevention built in.
 
 `PHP` &nbsp;`MySQL` &nbsp;`Chart.js` &nbsp;`Bootstrap` &nbsp;`JavaScript`
@@ -129,11 +124,6 @@ Full-stack personal finance tracker with category-wise budgeting, Chart.js visua
 
 </summary>
 <br/>
-
-<!-- 🔴 REPLACE the image link below with your actual project screenshot URL -->
-<img src="https://placehold.co/900x400/0d1117/a78bfa?text=WhatsApp+Auto-Reply+Bot+%E2%80%94+Screenshot+Here" width="100%"/>
-
-<br/><br/>
 
 Android automation engine built with Java and the Accessibility API — no third-party API costs or WhatsApp Business approval required. Runs silently in the background, triggering keyword-based replies within configurable time windows.
 
@@ -155,11 +145,6 @@ Android automation engine built with Java and the Accessibility API — no third
 </summary>
 <br/>
 
-<!-- 🔴 REPLACE the image link below with your actual project screenshot URL -->
-<img src="https://placehold.co/900x400/0d1117/a78bfa?text=Online+Food+System+%E2%80%94+Screenshot+Here" width="100%"/>
-
-<br/><br/>
-
 Dual-panel food ordering platform — customers browse, cart, and checkout while admins manage the menu, track orders, and view revenue. Live order pipeline (Placed → Preparing → Ready → Delivered) visible across both panels in real time.
 
 `PHP` &nbsp;`MySQL` &nbsp;`JavaScript` &nbsp;`Bootstrap` &nbsp;`HTML/CSS`
@@ -179,11 +164,6 @@ Dual-panel food ordering platform — customers browse, cart, and checkout while
 
 </summary>
 <br/>
-
-<!-- 🔴 REPLACE the image link below with your actual project screenshot URL -->
-<img src="https://placehold.co/900x400/0d1117/a78bfa?text=Student+Attendance+System+%E2%80%94+Screenshot+Here" width="100%"/>
-
-<br/><br/>
 
 Role-based attendance platform for institutions with separate dashboards for Admin, Teacher, and Student. Auto-calculates attendance percentages per subject, flags students below threshold, and exports records for compliance.
 
