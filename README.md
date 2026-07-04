@@ -1,141 +1,117 @@
-# Hi 👋, I'm Dattatray Bhosale
-### 🚀 Full Stack Developer | 🧠 Lifelong Learner | 💡 Problem Solver
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Datta78&label=Profile%20Views&color=blueviolet&style=flat-square)](https://github.com/Datta78)
-[![GitHub Followers](https://img.shields.io/github/followers/Datta78?label=Followers&style=social)](https://github.com/Datta78)
+---
+| ⚡ Who I Am & What I Do I'm **Dattatray Bhosale** , a full stack developer and founder of **DNM Web+** , a digital agency based in **Sangli, Maharashtra** . I design and build production-grade web systems, automation pipelines, and SaaS-style applications — with a sharp focus on solving real business problems, not just shipping features. My work spans backend architecture, database design, Android automation, and client-facing digital products. I combine technical depth with a product mindset — understanding what needs to be built and why before touching a line of code. 📍 Base : Sangli, Maharashtra, India 🏢 Venture : DNM Web+ — Digital Agency 🔧 Core Skills : Full Stack · Automation · SaaS 📬 Contact : bdattatray78@gmail.com 🤝 Available For : Freelance · Internships · Builds |   |
+| --- | --- |
 
 ---
 
-🎯 **About Me**  
-I'm a passionate and curious developer focused on building impactful, scalable, and efficient software solutions. With a strong foundation in full-stack web development and automation, I love exploring new technologies and contributing to real-world projects.
+## 🚀 Projects
+
+### 💸 Expense Manager Web App
+**Full-stack personal finance tracker** with category-wise budgeting, Chart.js visual reports, and spending limit alerts.
+
+`PHP` `MySQL` `Chart.js` `Bootstrap` `JavaScript`
+
+[![Read More](https://img.shields.io/badge/Read%20More-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Datta78/D_projects)  
+*(Add repo link if available)*
 
 ---
 
-### 🚀 What I'm Working On
+### 🤖 WhatsApp Auto-Reply Bot
+**Android automation engine** using Java + Accessibility API. Runs silently with keyword-based replies — no third-party costs.
 
-- 🧾 **Expense Manager Web App** – Manage personal finances with budgeting, alerts, and reports
-- 🤖 **WhatsApp Auto-Reply Bot** – Android bot to automate WhatsApp replies using Java
-- 🔍 **Exploring APIs & Web Scraping** using Python
-- 🌐 **Backend development** using PHP and Node.js
+`Java` `Android SDK` `Accessibility API`
 
----
-
-### 🌱 Currently Learning
-
-- ☁️ **Cloud Computing** & Hosting (Vercel, Netlify, Firebase)
-- 📊 **Data Visualization** using Chart.js, Python, and PowerBI
-- 🛡️ **Web Security** & GitHub Actions (CI/CD basics)
-- 🧠 **Soft Skills:** Technical writing, documentation & clean coding principles
+[![Read More](https://img.shields.io/badge/Read%20More-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Datta78/birthday-wishing)  
+*(Update link)*
 
 ---
 
-### 🧠 Projects I'm Proud Of
+### 🛒 Online Food System
+**Dual-panel food ordering platform** with real-time order tracking (Customer + Admin panels).
 
-| Project                                                                       | Description                                                                     |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 💸 [Expense Manager](https://github.com/Datta78/ExpenseManager)                | A smart finance tracker with budget goals, alert systems, and graphical reports |
-| 🤖 [WhatsApp Auto Reply Bot](https://github.com/Datta78/WhatsAppBot)           | Android bot built in Java to automate message replies                           |
-| 🛒 [Online Food Ordering System](https://github.com/Datta78/Food-Order-System) | A dynamic food ordering web platform with admin and customer panels             |
-| 📚 [Student Attendance System](https://github.com/Datta78/AttendanceSystem)    | Web-based attendance tracking system with exportable records                    |
+`PHP` `MySQL` `JavaScript` `Bootstrap`
 
-<br>
-
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:a78bfa&height=180&section=header&text=Let's%20Build%20Something%20Great&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+[![Read More](https://img.shields.io/badge/Read%20More-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Datta78/Food-Order-System)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📋 Student Attendance System
+**Role-based attendance platform** (Admin, Teacher, Student) with auto percentage calculation and reports.
 
-[#️-tech-stack--tools](#️-tech-stack--tools)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,py,java,html,css,bootstrap,mysql,nodejs,git,github,vscode&theme=dark" alt="Tech stack skill icons" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+`PHP` `MySQL` `Bootstrap` `JavaScript`
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 📊 GitHub Stats
 
-[#-github-stats--activity](#-github-stats--activity)
+![Datta78's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Datta78&show_icons=true&theme=radical&hide_border=true)
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Datta78&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta78&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Datta78&layout=compact&theme=radical&hide_border=true)
 
-🔥 **Streak Stats**
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Datta78&theme=radical&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
-</p>
-
-> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Datta78&theme=radical&hide_border=true)
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-[#-github-trophies](#-github-trophies)
+**Languages**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Datta78&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</p>
+**Frameworks & UI**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+**Database & Infrastructure**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Contribution Graph
+**Specialisations**  
+`Full Stack` `Android Automation` `WhatsApp Bots` `SaaS Tools` `Digital Agency Solutions`
 
-[#-contribution-graph](#-contribution-graph)
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Datta78&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-### 📜 Certifications
-
-[#-certifications](#-certifications)
-
-- ✅ Responsive Web Design – FreeCodeCamp
-- ✅ Python for Everybody – Coursera (in progress)
-- ✅ Git & GitHub Basics – Udemy
+*(You can enhance this further using https://github.com/tandpfun/skill-icons)*
 
 ---
 
-### 🤝 Let's Collaborate
+## 🏅 Certifications
 
-[#-lets-collaborate](#-lets-collaborate)
-
-<p align="left">
-  <a href="mailto:bhosaledattatray78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dattatray-bhosale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Datta78"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
-</p>
+| Certification                          | Domain                     |
+|----------------------------------------|----------------------------|
+| ✦ Responsive Web Design               | Frontend Development      |
+| ✦ Python Programming & Automation     | Python · Scripting        |
+| ✦ MySQL Database Design & Management  | Database Architecture     |
+| ✦ Git & GitHub — Version Control      | DevOps Fundamentals       |
+| ✦ REST API Design & Development       | Backend Systems           |
+| ✦ Android App Development with Java   | Mobile Development        |
+| ✦ Introduction to Cloud Computing      | Cloud & Infrastructure    |
+| ✦ Digital Marketing Fundamentals       | Growth & Marketing        |
 
 ---
 
-> 💡 *"Build what you love. Share what you build."*
+## 🏢 DNM Web+ — Digital Agency
+
+> Delivering digital infrastructure for growth-focused businesses across Sangli · Kolhapur · Pune MIDC
+
+*(Keep your existing detailed table here if you want, or let me know to enhance it)*
 
 ---
 
-#### 📌 Keywords for Search (SEO)
+## 🔭 Currently Building
 
-[#-keywords-for-search-seo](#-keywords-for-search-seo)
+- **DNM Web+** → Agency website, client pipeline, and service productisation
+- **WhatsApp SaaS** → Multi-client automation platform with dashboard & analytics
+- **Cloud Deploy** → Migrating projects to Vercel + Firebase
+- **API Layer** → REST API architecture for scalable SaaS
+- **Security** → Auth hardening, CI/CD, GitHub Actions
 
-`Dattatray Bhosale`, `Full Stack Developer`, `GitHub Portfolio`, `PHP Developer`, `Python Projects`, `JavaScript Projects`, `Open Source Contributor`, `Student Developer`, `Freelancer`, `LinkedIn Dattatray`, `Expense Manager`, `Web Developer India`
+---
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:a78bfa&height=100&section=footer)
+## 📬 Let's Connect
+
+**Available for freelance projects, technical collaborations, and consulting engagements.**
+
+**"Build systems. Solve problems. Ship things that matter."**
+
+---
+
+*Made with ❤️ using dynamic GitHub cards*
