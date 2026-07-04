@@ -1,12 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Dattatray%20Bhosale&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Automation%20Engineer%20%E2%80%A2%20Digital%20Agency%20Founder&descAlignY=60&descSize=15&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Dattatray%20Bhosale&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Automation%20Engineer%20%E2%80%A2%20Founder%20%40%20DNM%20Web%2B&descAlignY=55&descSize=16&animation=fadeIn)
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+systems+that+work+while+I+sleep.;Full+Stack+%7C+PHP+%7C+Python+%7C+Node.js+%7C+Java;WhatsApp+Automation+%26+SaaS+Architecture;Founder+%40+DNM+Web%2B+Digital+Agency;Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+systems+that+work+while+I+sleep.;Full+Stack+%7C+PHP+%7C+Python+%7C+Node.js+%7C+Java;WhatsApp+Automation+%26+SaaS+Architecture;Founder+%40+DNM+Web%2B+Digital+Agency;Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
+[![About](https://img.shields.io/badge/📍_About-a78bfa?style=for-the-badge&labelColor=0d1117)](#-who-i-am--what-i-do)
+[![Stack](https://img.shields.io/badge/🛠️_Stack-a78bfa?style=for-the-badge&labelColor=0d1117)](#️-tech-stack)
+[![Projects](https://img.shields.io/badge/🚀_Projects-a78bfa?style=for-the-badge&labelColor=0d1117)](#-featured-projects)
+[![Stats](https://img.shields.io/badge/📊_Stats-a78bfa?style=for-the-badge&labelColor=0d1117)](#-github-analytics)
+[![Agency](https://img.shields.io/badge/🏢_DNM_Web%2B-a78bfa?style=for-the-badge&labelColor=0d1117)](#-dnm-web--digital-agency)
+[![Connect](https://img.shields.io/badge/📬_Connect-a78bfa?style=for-the-badge&labelColor=0d1117)](#-lets-connect)
 
 </div>
 
@@ -14,11 +19,12 @@
 
 ---
 
+<a id="-who-i-am--what-i-do"></a>
+## ⚡ Who I Am & What I Do
+
 <table width="100%">
 <tr>
 <td width="54%" valign="top">
-
-## ⚡ Who I Am & What I Do
 
 I'm **Dattatray Bhosale**, a full stack developer and founder of **DNM Web+**, a digital agency based in **Sangli, Maharashtra**.
 
@@ -30,9 +36,16 @@ My work spans backend architecture, database design, Android automation, and cli
 📍 Base          : Sangli, Maharashtra, India
 🏢 Venture       : DNM Web+ — Digital Agency
 🔧 Core Skills   : Full Stack · Automation · SaaS
-📬 Contact       : bdattatray78@gmail.com
+📬 Contact       : bhosaledattatray78@gmail.com
 🤝 Available For : Freelance · Internships · Builds
 ```
+
+<div align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Datta78&label=Profile+Views&color=a78bfa&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Datta78?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)
+
+</div>
 
 </td>
 <td width="46%" valign="top" align="center">
@@ -41,7 +54,7 @@ My work spans backend architecture, database design, Android automation, and cli
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Datta78&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=Datta78&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
 
 </td>
 </tr>
@@ -49,33 +62,24 @@ My work spans backend architecture, database design, Android automation, and cli
 
 ---
 
+<a id="️-tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,php,js,java,html,css&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & UI**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+**Frameworks & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=bootstrap,nodejs,git,github,vscode,postman&theme=dark" />
 
 **Database & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,vercel,netlify,linux&theme=dark" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-**Specialisations**
+<br/>
 
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS%20Architecture-6366F1?style=for-the-badge&logoColor=white)
@@ -88,61 +92,75 @@ My work spans backend architecture, database design, Android automation, and cli
 
 ---
 
-## 🚀 Projects
+<a id="-featured-projects"></a>
+## 🚀 Featured Projects
 
 <br/>
 
-### 💸 Expense Manager Web App
-> Full-stack personal finance tracker with category-wise budgeting, Chart.js visual reports, and an alert system that fires when spending limits are crossed.
-> Session-based PHP auth with input validation and SQL injection prevention built in.
+<details open>
+<summary><b>💸 Expense Manager Web App</b></summary>
+<br/>
+
+Full-stack personal finance tracker with category-wise budgeting, Chart.js visual reports, and an alert system that fires when spending limits are crossed. Session-based PHP auth with input validation and SQL injection prevention built in.
 
 `PHP` &nbsp;`MySQL` &nbsp;`Chart.js` &nbsp;`Bootstrap` &nbsp;`JavaScript`
 
----
+**Key highlights:** budget goal tracking · category-wise spend breakdown · exportable monthly reports · threshold-based alerts
 
-### 🤖 WhatsApp Auto-Reply Bot
-> Android automation engine built with Java and the Accessibility API — no third-party API costs or WhatsApp Business approval required.
-> Runs silently in the background, triggering keyword-based replies within configurable time windows.
+</details>
+
+<br/>
+
+<details>
+<summary><b>🤖 WhatsApp Auto-Reply Bot</b></summary>
+<br/>
+
+Android automation engine built with Java and the Accessibility API — no third-party API costs or WhatsApp Business approval required. Runs silently in the background, triggering keyword-based replies within configurable time windows.
 
 `Java` &nbsp;`Android SDK` &nbsp;`Accessibility API` &nbsp;`SharedPreferences`
 
----
+**Key highlights:** keyword-triggered replies · scheduled active hours · zero API cost · lightweight background service
 
-### 🛒 Online Food System
-> Dual-panel food ordering platform — customers browse, cart, and checkout while admins manage the menu, track orders, and view revenue.
-> Live order pipeline (Placed → Preparing → Ready → Delivered) visible across both panels in real time.
+</details>
+
+<br/>
+
+<details>
+<summary><b>🛒 Online Food System</b></summary>
+<br/>
+
+Dual-panel food ordering platform — customers browse, cart, and checkout while admins manage the menu, track orders, and view revenue. Live order pipeline (Placed → Preparing → Ready → Delivered) visible across both panels in real time.
 
 `PHP` &nbsp;`MySQL` &nbsp;`JavaScript` &nbsp;`Bootstrap` &nbsp;`HTML/CSS`
 
----
+**Key highlights:** admin + customer dashboards · real-time order status · revenue tracking · responsive UI
 
-### 📋 Student Attendance System
-> Role-based attendance platform for institutions with separate dashboards for Admin, Teacher, and Student.
-> Auto-calculates attendance percentages per subject, flags students below threshold, and exports records for compliance.
+</details>
+
+<br/>
+
+<details>
+<summary><b>📋 Student Attendance System</b></summary>
+<br/>
+
+Role-based attendance platform for institutions with separate dashboards for Admin, Teacher, and Student. Auto-calculates attendance percentages per subject, flags students below threshold, and exports records for compliance.
 
 `PHP` &nbsp;`MySQL` &nbsp;`Bootstrap` &nbsp;`JavaScript`
 
----
+**Key highlights:** role-based access · auto attendance % calculation · low-attendance flagging · exportable records
 
-## 🧩 Skill Icons
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,js,py,java,html,css,bootstrap,mysql,nodejs,firebase,vercel,git,github,vscode&theme=dark&perline=7" alt="Skill Icons" />
-
-</div>
+</details>
 
 ---
 
-## 📡 Contribution Activity
+<a id="-github-analytics"></a>
+## 📊 GitHub Analytics
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Datta78&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6366f1&point=a78bfa&area=true&area_color=6366f130)](https://github.com/Datta78)
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta78&layout=donut&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&custom_title=Language+Distribution" width="36%"/>
 
@@ -150,15 +168,49 @@ My work spans backend architecture, database design, Android automation, and cli
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Datta78&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](https://github.com/Datta78)
 
+<br/><br/>
+
+<!-- Contribution snake — requires a workflow, see note below -->
+![Snake animation](https://raw.githubusercontent.com/Datta78/Datta78/output/github-contribution-grid-snake-dark.svg)
+
 </div>
+
+> 🐍 **Snake animation setup:** this renders once you add [platane/snk](https://github.com/Platane/snk)'s GitHub Action to this repo — it auto-generates the SVG above on a schedule and pushes it to an `output` branch. Say the word and I'll write the exact workflow file for you.
+
+---
+
+<a id="-dnm-web--digital-agency"></a>
+## 🏢 DNM Web+ — Digital Agency
+
+<div align="center">
+
+> **Delivering digital infrastructure for growth-focused businesses across Sangli · Kolhapur · Pune MIDC**
+
+![Agency](https://img.shields.io/badge/Digital_Agency-DNM_Web%2B-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Region-Sangli_%7C_Kolhapur_%7C_Pune_MIDC-a78bfa?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+DNM Web+ is a digital agency built to serve small and mid-sized businesses that need systems — not just a web presence. Every engagement is scoped around a clear outcome: more inbound leads, faster client response, lower operational overhead, or all three.
+
+<br/>
+
+| Service | What's Delivered |
+|:---|:---|
+| 🌐 **Web Development** | Custom websites and landing pages — fast, SEO-optimised, mobile-first, production-deployed with SSL |
+| 🤖 **WhatsApp Automation** | Lead capture forms, auto-reply bots, broadcast pipelines, and CRM-linked messaging systems |
+| 🛒 **E-commerce** | Full-stack stores with product management, payment integration, order tracking, and admin dashboards |
+| 📈 **SEO & Social Media** | On-page SEO, Google Business setup, and branded social media design kits |
+| 📊 **Retainer Plans** | Monthly maintenance, content updates, uptime monitoring, and priority support |
+| 🔧 **Custom SaaS Tools** | Booking systems, inventory trackers, and workflow automations replacing manual processes |
 
 <br/>
 
 <div align="center">
 
-**🔥 Streak Stats**
-
-<img src="https://github-readme-streak-stats.vercel.app/?user=Datta78&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" width="60%"/>
+**Industries Served** &nbsp;·&nbsp; `Retail` `Food & Hospitality` `Manufacturing (MIDC)` `Healthcare` `Education` `Professional Services`
 
 </div>
 
@@ -175,4 +227,56 @@ My work spans backend architecture, database design, Android automation, and cli
 | ✦ MySQL Database Design & Management | Database Architecture |
 | ✦ Git & GitHub — Version Control | DevOps Fundamentals |
 | ✦ REST API Design & Development | Backend Systems |
-| ✦
+| ✦ Android App Development with Java | Mobile Development |
+| ✦ Introduction to Cloud Computing | Cloud & Infrastructure |
+| ✦ Digital Marketing Fundamentals | Growth & Marketing |
+
+</div>
+
+---
+
+## 🔭 Currently Building
+
+```bash
+[DNM Web+]       → Agency website, client pipeline, and service productisation
+[WhatsApp SaaS]  → Multi-client automation platform with dashboard & analytics
+[Cloud Deploy]   → Migrating projects to Vercel + Firebase production environments
+[API Layer]      → REST API architecture for scalable SaaS backend systems
+[Security]       → Implementing auth hardening, CI/CD pipelines, GitHub Actions
+```
+
+---
+
+## 💬 Words I Build By
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build+systems.+Solve+problems.+Ship+things+that+matter.)
+
+</div>
+
+---
+
+<a id="-lets-connect"></a>
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattatray-bhosale78/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhosaledattatray78@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Datta78)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918767664008)
+
+<br/>
+
+*Available for freelance projects, technical collaborations, and consulting engagements.*
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer)
+
+</div>
