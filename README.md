@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+systems+that+work+while+I+sleep.;Full+Stack+%7C+PHP+%7C+Python+%7C+Node.js+%7C+Java;WhatsApp+Automation+%26+SaaS+Architecture;Founder+%40+DNM+Web%2B+Digital+Agency;Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Datta78&label=Profile+Views&color=a78bfa&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Datta78?label=Followers&style=flat-square&color=a78bfa&labelColor=0d1117)
+
 </div>
 
 <br/>
@@ -37,7 +42,7 @@ My work spans backend architecture, database design, Android automation, and cli
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Datta78&hide_border=true&background=0d1117&border=a78bfa&stroke=302b63&ring=fb8500&fire=fb8500&currStreakNum=ffffff&currStreakLabel=fb8500&sideNums=ffd60a&sideLabels=8b93a1&dates=6e7681" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Datta78&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="100%"/>
 
 </td>
 </tr>
@@ -86,20 +91,37 @@ My work spans backend architecture, database design, Android automation, and cli
 
 ## 🚀 Projects
 
-<div align="center">
+<br/>
 
-<table>
-<tr>
-<td><a href="https://github.com/Datta78/ExpenseManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Datta78&repo=ExpenseManager&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" /></a></td>
-<td><a href="https://github.com/Datta78/WhatsAppBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Datta78&repo=WhatsAppBot&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Datta78/Food-Order-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Datta78&repo=Food-Order-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" /></a></td>
-<td><a href="https://github.com/Datta78/AttendanceSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Datta78&repo=AttendanceSystem&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" /></a></td>
-</tr>
-</table>
+![Expense Manager](https://img.shields.io/badge/💸_Expense_Manager-a78bfa?style=flat-square&labelColor=0d1117&color=a78bfa)
 
-</div>
+Full-stack finance tracker with category budgeting, Chart.js reports, and spend-limit alerts.
+
+`PHP` `MySQL` `Chart.js` `Bootstrap`
+
+<br/>
+
+![WhatsApp Bot](https://img.shields.io/badge/🤖_WhatsApp_Auto--Reply_Bot-a78bfa?style=flat-square&labelColor=0d1117&color=a78bfa)
+
+Android automation via Java + Accessibility API — no paid API or Business approval needed.
+
+`Java` `Android SDK` `Accessibility API`
+
+<br/>
+
+![Food System](https://img.shields.io/badge/🛒_Online_Food_System-a78bfa?style=flat-square&labelColor=0d1117&color=a78bfa)
+
+Dual-panel ordering platform with live order pipeline from placed to delivered.
+
+`PHP` `MySQL` `JavaScript` `Bootstrap`
+
+<br/>
+
+![Attendance System](https://img.shields.io/badge/📋_Student_Attendance_System-a78bfa?style=flat-square&labelColor=0d1117&color=a78bfa)
+
+Role-based attendance tracker with auto % calculation and low-attendance flags.
+
+`PHP` `MySQL` `Bootstrap` `JavaScript`
 
 ---
 
@@ -170,3 +192,44 @@ DNM Web+ is a digital agency built to serve small and mid-sized businesses that 
 <div align="center">
 
 **Industries Served** &nbsp;·&nbsp; `Retail` `Food & Hospitality` `Manufacturing (MIDC)` `Healthcare` `Education` `Professional Services`
+
+</div>
+
+---
+
+## 🔭 Currently Building
+
+```bash
+[DNM Web+]       → Agency website, client pipeline, and service productisation
+[WhatsApp SaaS]  → Multi-client automation platform with dashboard & analytics
+[Cloud Deploy]   → Migrating projects to Vercel + Firebase production environments
+[API Layer]      → REST API architecture for scalable SaaS backend systems
+[Security]       → Implementing auth hardening, CI/CD pipelines, GitHub Actions
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattatray-bhosale78/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhosaledattatray78@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Datta78)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918767664008)
+
+<br/>
+
+*Available for freelance projects, technical collaborations, and consulting engagements.*
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer)
+
+**"Build systems. Solve problems. Ship things that matter."**
+
+</div>
