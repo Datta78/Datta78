@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:0f766e,100:134e4a&height=200&section=header&text=Dattatray%20Bhosale&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Automation%20Engineer%20%E2%80%A2%20Agency%20Founder&descAlignY=58&descSize=14&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+systems+that+work+while+I+sleep.;Full+Stack+%7C+PHP+%7C+Python+%7C+Node.js+%7C+Java;WhatsApp+Automation+%26+SaaS+Architecture;Founder+%40+DNM+Web%2B+Digital+Agency)](https://git.io/typing-svg)
