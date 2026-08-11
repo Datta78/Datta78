@@ -110,7 +110,8 @@ Delivering web development, WhatsApp automation, e-commerce, SEO, and custom Saa
 [DNM Web+]      → Agency website, client pipeline, service productisation
 [WhatsApp SaaS]  → Multi-client automation platform with dashboard & analytics
 [Cloud Deploy]   → Migrating projects to Vercel + Firebase
-[API Layer]      → REST API architecture for scalable SaaS backends
+[API Layer]      → REST API architecture for scalable SaaS backends1
+
 ```
 
 <br/>
